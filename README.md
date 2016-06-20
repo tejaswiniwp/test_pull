@@ -4,4 +4,5 @@ Testing GitHub workflow.
 :octocat:
 Updating from GitHub Desktop.
 Testing Pull
-Resolving conflicts
+Testing merge
+Testing conflicts resolution
